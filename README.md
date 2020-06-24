@@ -1,2 +1,1 @@
-# basicBot
- 
+# Enostavni Messaging Telegram Bot
